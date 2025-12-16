@@ -14,10 +14,10 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
   <div class="text">
     <h3>Moveable 4R</h3>
     <p>
-      Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
+      Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
     </p>
   </div>
-</div>
+</div>   
 
 Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)  
 Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
