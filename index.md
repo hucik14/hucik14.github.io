@@ -19,9 +19,8 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
   </div>
 </div>
 
-> Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
-
-> Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)  
+Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
 
 ---
 
@@ -36,9 +35,10 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
   </div>
 </div>
 
-- Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
 
-- Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)  
+Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+
 
 ---
 
