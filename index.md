@@ -18,11 +18,12 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
     <p>
       Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
     </p>
-      <li>Paper: <a href="https://doi.org/10000">https://doi.org/10000</a></li>
-      <li>Video: <a href="https://youtu.be/VIDEO_ID">https://youtu.be/VIDEO_ID</a></li>
   </div>
-  
 </div>
+
+Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+
+Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
 
 ---
 
@@ -43,5 +44,7 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
 ---
 
 ## License
-- Site code: MIT (see [LICENCE](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE))
-- Content (text/images/gifs): CC BY-NC 4.0 (see [LICENCE-CONTENT](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE-CONTENT))
+
+Site code: MIT (see [LICENCE](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE))
+
+Content (text/images/gifs): CC BY-NC 4.0 (see [LICENCE-CONTENT](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE-CONTENT))
