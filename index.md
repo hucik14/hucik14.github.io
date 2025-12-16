@@ -18,11 +18,10 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
     <p>
       Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
     </p>
-  </div>
-  <ul>
       <li>Paper: <a href="https://doi.org/10000">https://doi.org/10000</a></li>
       <li>Video: <a href="https://youtu.be/VIDEO_ID">https://youtu.be/VIDEO_ID</a></li>
-    </ul>
+  </div>
+  
 </div>
 
 ---
