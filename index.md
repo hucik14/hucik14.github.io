@@ -8,7 +8,22 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
 
 ---
 
-## Mechanism models
+<div class="project">
+  <img src="assets/gifs/bennett-exudyn.gif" alt="Moveable 4R mechanism demo">
+
+  <div class="text">
+    <h3>Moveable 4R</h3>
+    <p>
+      Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
+    </p>
+  </div>
+</div>
+
+> Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+
+> Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+
+---
 
 <div class="project">
   <img src="assets/gifs/bennett-exudyn.gif" alt="Moveable 4R mechanism demo">
@@ -21,25 +36,9 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
   </div>
 </div>
 
-Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+- Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
 
-Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
-
----
-
-<div class="project">
-  <img src="assets/gifs/bennett-exudyn.gif" alt="Moveable 4R mechanism demo">
-  <div class="text">
-    <h3>Moveable 4R</h3>
-    <ul>
-      <li>
-        Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
-      </li>
-      <li>Paper: <a href="https://doi.org/10000">https://doi.org/10000</a></li>
-      <li>Video: <a href="https://youtu.be/VIDEO_ID">https://youtu.be/VIDEO_ID</a></li>
-    </ul>
-  </div>
-</div>
+- Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
 
 ---
 
