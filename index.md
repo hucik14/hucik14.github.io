@@ -11,25 +11,33 @@ Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://schola
 
 ## Mechanism models
 
-### Moveable 4R
-
-![Demo of Project 1](assets/gifs/bennett-exudyn.gif)
-
-- Lorem ipsum 
-- Paper: https://doi.org/10000
-- Video: https://youtu.be/VIDEO_ID
+<div class="project">
+  <img src="assets/gifs/bennett-exudyn.gif" alt="Moveable 4R mechanism demo">
+  <div class="text">
+    <h3>Moveable 4R</h3>
+    <ul>
+      <li>Lorem ipsum</li>
+      <li>Paper: <a href="https://doi.org/10000">https://doi.org/10000</a></li>
+      <li>Video: <a href="https://youtu.be/VIDEO_ID">https://youtu.be/VIDEO_ID</a></li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Mechanism models
 
-### Moveable 4R
-
-![Demo of Project 1](assets/gifs/bennett-exudyn.gif)
-
-- Lorem ipsum 
-- Paper: https://doi.org/10000
-- Video: https://youtu.be/VIDEO_ID
+<div class="project">
+  <img src="assets/gifs/bennett-exudyn.gif" alt="Moveable 4R mechanism demo">
+  <div class="text">
+    <h3>Moveable 4R</h3>
+    <ul>
+      <li>Lorem ipsum</li>
+      <li>Paper: <a href="https://doi.org/10000">https://doi.org/10000</a></li>
+      <li>Video: <a href="https://youtu.be/VIDEO_ID">https://youtu.be/VIDEO_ID</a></li>
+    </ul>
+  </div>
+</div>
 
 ---
 
