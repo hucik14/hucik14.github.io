@@ -15,25 +15,30 @@
 /* Hide the "Hosted on GitHub Pages — Theme by …" credits line */
 span.credits { display: none !important; }
 
-/* Hide Midnight’s nav (the gray bar area), but keep your page */
-#header nav { display: none !important; }
 
-/* Your custom header block */
-.custom-header {
-  margin: 18px 0 26px 0;
+
+/* If a leftover header container still takes space */
+#header, #header_wrap {
+  background: transparent !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
 }
 
-.custom-header .links a { margin-right: 10px; }
-.custom-header p { margin: 8px 0; }
+
+
+
+
+
 
 /* Font + base size */
 body {
   font-family: system-ui, -apple-system, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif;
-  font-size: 12px;      /* try 15px or 14px */
-  line-height: 1.55;
+  font-size: 12px;
+  line-height: 1.4;
 }
-
-/* Optional: make headings a bit smaller too */
+/* Headings sizes */
 h1 { font-size: 1.5rem; }
 h2 { font-size: 1.0rem; }
 h3 { font-size: 1.0rem; }
@@ -45,14 +50,12 @@ h3 { font-size: 1.0rem; }
   align-items: flex-start;
   margin: 28px 0;
 }
-
 .project img {
   width: 250px;
   max-width: 100%;
   height: auto;
   border-radius: 10px;
 }
-
 .project .text {
   flex: 1;
   min-width: 260px;

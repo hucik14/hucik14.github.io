@@ -42,7 +42,6 @@ Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICEN
   </div>
 </div>
 
-
 Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)  
 Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
 
