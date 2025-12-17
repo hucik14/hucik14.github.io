@@ -23,18 +23,36 @@ Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICEN
 ---
 
 <div class="project">
-  <img src="assets/gifs/bennett-exudyn.gif" alt="Moveable 4R mechanism demo">
+  <img src="assets/gifs/sing-3rpr.gif" alt="3RPR">
 
   <div class="text">
-    <h3>Moveable 4R</h3>
+    <h3>Shaky 3-RPR</h3>
     <p>
-      Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
+      The structure shall be rigid (imagine pneumatic actuators in the legs), however it is shaky (moving in a range) because the direct kinematics solutions coicide. 
+      It was proposed by Manfred Husty. 
     </p>
   </div>
 </div>
 
-Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)  
-Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)
+Husty, M. (2023), Multiple Solutions of Direct Kinematics of 3-RPR Parallel Manipulators.  
+Paper DOI: [10.1007/978-3-031-45705-0_58](https://doi.org/10.1007/978-3-031-45705-0_58) 
+
+---
+
+<div class="project">
+  <img src="assets/gifs/r9.gif" alt="9R">
+
+  <div class="text">
+    <h3>9R with 1 DoF</h3>
+    <p>
+      This 9R is supposed to have 3 DoFs, but has only 1 as the axes form a discrete Möbius strip. 
+      It was proposed by Manfred Husty. 
+    </p>
+  </div>
+</div>
+
+Husty, M. (2022), Möbius Linkages.  
+Paper DOI: [10.1007/978-3-031-08140-8_1](https://doi.org/10.1007/978-3-031-08140-8_1) 
 
 ---
 
