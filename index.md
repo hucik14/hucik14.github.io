@@ -41,8 +41,9 @@ Video: [video.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICEN
 
 
 ---
-
-<img src="assets/gifs/bennett-exudyn.gif" />
+<div class="project">
+  <img src="assets/gifs/bennett-exudyn.gif" />
+</div>
 Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.Lorem ipsum text lorem ip sum text.
 
 Paper: [paper.link](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE)  
