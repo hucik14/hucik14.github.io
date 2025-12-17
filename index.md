@@ -1,3 +1,14 @@
+<div class="custom-header">
+  <h1>Mechanisms Prototyping</h1>
+  <p>Welcome to my site with a little presentation of mechanisms prototypes I made.</p>
+  <p class="links">
+    <a href="https://github.com/hucik14">GitHub</a> ·
+    <a href="https://scholar.google.com/citations?user=5sNQdNMAAAAJ">Google Scholar</a> ·
+    <a href="https://www.printables.com/@hucik14_497869">Printables.com</a>
+  </p>
+</div>
+
+
 ---
 title: Mechanism Prototyping
 ---
