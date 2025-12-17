@@ -1,6 +1,5 @@
 - title: "Moveable 4R"
   gif: "bennett-exudyn.gif"
-  alt: "Moveable 4R mechanism demo"
   description: >
     Lorem ipsum text lorem ip sum text. Lorem ipsum text lorem ip sum text.
     Lorem ipsum text lorem ip sum text.
@@ -17,7 +16,6 @@
 
 - title: "Shaky 3-RPR"
   gif: "sing-3rpr.gif"
-  alt: "3RPR"
   description: >
     The structure shall be rigid (imagine pneumatic actuators in the legs 
     that that keep length in this configuration), however it is shaky 
@@ -29,7 +27,6 @@
 
 - title: "Möbius linkage (9R with 1 DoF)"
   gif: "r9.gif"
-  alt: "9R"
   description: >
     This 9R is supposed to have 3 DoFs, but has only 1 as the axes form a discrete Möbius strip.
     It was proposed by Manfred Husty.

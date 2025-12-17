@@ -1,5 +1,5 @@
 <div class="project">
-    <img src="{{ 'assets/gifs/' | append: include.p.gif | relative_url }}" alt="{{ include.p.alt }}">
+  <img src="{{ 'assets/gifs/' | append: include.p.gif | relative_url }}" alt="{{ include.p.alt | default: include.p.title }}">
 
   <div class="text">
     <h3>{{ include.p.title }}</h3>

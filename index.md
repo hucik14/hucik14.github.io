@@ -15,5 +15,5 @@ You can also visit my [GitHub](https://github.com/hucik14) · [Google Scholar](h
 
 ## License
 
-Site code: MIT (see [LICENCE](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE))  
+Site code: Apache 2.0 (see [LICENCE](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE))  
 Content (text/images/gifs): CC BY-NC 4.0 (see [LICENCE-CONTENT](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE-CONTENT))
