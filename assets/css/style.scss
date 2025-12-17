@@ -6,6 +6,15 @@
 /* Midnight: hide the whole "downloads" header area */
 #downloads { display: none !important; }
 
+/* Hide the top "View On GitHub" button */
+#header nav ul li.fork { display: none !important; }
+
+/* If you also see ZIP/TAR/DOWNLOADS buttons */
+#header nav ul li.downloads { display: none !important; }
+
+/* Hide the "Hosted on GitHub Pages — Theme by …" credits line */
+span.credits { display: none !important; }
+
 /* Make the theme single-column and center it */
 // .wrapper {
 //   max-width: 900px;   /* change to 800px if you prefer */
