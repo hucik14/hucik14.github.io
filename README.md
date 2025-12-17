@@ -1,6 +1,5 @@
-# hucik14.github.io
-Visit on: https://hucik14.github.io
-
+# Mechanism Prototyping
+See animated prototypes on: https://hucik14.github.io
 
 ## Licensing
 
