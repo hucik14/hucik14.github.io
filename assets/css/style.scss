@@ -18,14 +18,14 @@ span.credits { display: none !important; }
 /* Font + base size */
 body {
   font-family: system-ui, -apple-system, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif;
-  font-size: 14px;      /* try 15px or 14px */
+  font-size: 12px;      /* try 15px or 14px */
   line-height: 1.55;
 }
 
 /* Optional: make headings a bit smaller too */
-h1 { font-size: 1.9rem; }
-h2 { font-size: 1.35rem; }
-h3 { font-size: 1.15rem; }
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.0rem; }
+h3 { font-size: 1.0rem; }
 
 /* Project row: GIF left, text right */
 .project {
