@@ -15,18 +15,17 @@
 /* Hide the "Hosted on GitHub Pages — Theme by …" credits line */
 span.credits { display: none !important; }
 
-/* Make the theme single-column and center it */
-// .wrapper {
-//   max-width: 900px;   /* change to 800px if you prefer */
-//   margin: 0 auto;
-//   padding: 0 16px;
-// }
+/* Font + base size */
+body {
+  font-family: system-ui, -apple-system, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 14px;      /* try 15px or 14px */
+  line-height: 1.55;
+}
 
-// header, section {
-//   float: none;
-//   position: static;
-//   width: auto;
-// }
+/* Optional: make headings a bit smaller too */
+h1 { font-size: 1.9rem; }
+h2 { font-size: 1.35rem; }
+h3 { font-size: 1.15rem; }
 
 /* Project row: GIF left, text right */
 .project {
@@ -37,7 +36,7 @@ span.credits { display: none !important; }
 }
 
 .project img {
-  width: 200px;
+  width: 250px;
   max-width: 100%;
   height: auto;
   border-radius: 10px;
@@ -46,6 +45,7 @@ span.credits { display: none !important; }
 .project .text {
   flex: 1;
   min-width: 260px;
+  
 }
 
 /* Mobile: stack */
