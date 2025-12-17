@@ -15,13 +15,26 @@
 #
 # TODO: Bricards, snappings
 #
-- title: "Rational Linkages"
+- title: "Bennett 4R pick-and-place demo"
   gif: "tombennett.gif"  # place the gif in assets/gifs/
+  description: >
+    Beautiful pick-and-place manipulator made by Tomas Postula, VSB - Technical 
+    University of Ostrava, Czechia. I helped him only a little with very first
+    design draft. After Tomas finished I had to made and assembly one also for myself asap. 
+    Based on experience from public outreach events, <b>kids totally love it</b> ❤️❕
+  links:
+    - label: "Video"
+      text: "youtube.com/watch?v=T_7lkPjdcCg"
+      url: "https://www.youtube.com/watch?v=T_7lkPjdcCg"
+
+
+- title: "Rational Linkages"
+  gif: "rl.gif"  # place the gif in assets/gifs/
   description: >
     Although not a single mechanism, I created this interactive toolbox
     for synthesis and rapid prototyping of rational linkages during
     my postdoc at the University of Innsbruck, Austria. It is open-source
-    and available on PyPi.
+    and <a href="https://pypi.org/project/rational-linkages/">available on PyPI</a>.
   links:
     - label: "Rational Linkages docs"
       text: "rational-linkages.readthedocs.io"
