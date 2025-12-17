@@ -12,6 +12,48 @@
 #   citation: "Surname, N. (2026), Name of the Article."
 #   doi: "https://doi.org/10.1007/978-3-031-45705-0_58"
 #
+#
+# TODO: Bricards, snappings
+#
+- title: "Rational Linkages"
+  gif: "tombennett.gif"  # place the gif in assets/gifs/
+  description: >
+    Although not a single mechanism, I created this interactive toolbox
+    for synthesis and rapid prototyping of rational linkages during
+    my postdoc at the University of Innsbruck, Austria. It is open-source
+    and available on PyPi.
+  links:
+    - label: "Rational Linkages docs"
+      text: "rational-linkages.readthedocs.io"
+      url: "https://rational-linkages.readthedocs.io/"
+    - label: "Arxiv preprint"
+      text: "arxiv.org/abs/2403.00558"
+      url: "https://arxiv.org/abs/2403.00558"
+  citation: "Huczala, D. et al. (2023), Rational Linkages: From Poses to 3D-printed Prototypes."
+  doi: "https://doi.org/10.1007/978-3-031-64057-5_27"
+
+
+
+- title: "Motorized 6R"
+  gif: "r6.gif"  # place the gif in assets/gifs/
+  description: >
+    Rational 6R mechanism with 1 DoF, whose coupler motion
+    is parameterized by a cubic rational function. 
+    Collision-free line model was proposed by Zijia Li from the
+    Chinese Academy of Sciences, China. Solid curved-link model 
+    was made using Rational Linkages. 
+  links:
+    - label: "Rational Linkages docs"
+      text: "rational-linkages.readthedocs.io"
+      url: "https://rational-linkages.readthedocs.io/"
+    - label: "Video"
+      text: "https://youtu.be/SC_mPBAiBr0"
+      url: "youtu.be/SC_mPBAiBr0"
+  citation: "Li, Z., Nawratil, G. et al. (2020), Invertible Paradoxic Loop Structures for Transformable Design."
+  doi: "https://doi.org/10.1111/cgf.13928"
+
+
+
 - title: "Shaky 3-RPR"
   gif: "m3rpr.gif"
   description: >
@@ -27,8 +69,9 @@
 - title: "Even shakier 3-RPR"
   gif: "g3rpr.gif"  # place the gif in assets/gifs/
   description: >
-    The flexibility of this 3-RPR was "enhanced" by replacing rigid bodies (base and coupler) 
-    by assembling them using bars in the mechanism's co-linear configuration.
+    The flexibility of this 3-RPR was "enhanced" by replacing rigid bodies 
+    (base and coupler triangular platforms) and assembling 
+    them using bars in the mechanism's co-linear configuration.
     The moveability is limited by self-collisions, 
     so in reality it would be even higher portion of infinitesimal motion.
     It was proposed by Georg Nawratil from TU Wien, Austria.
