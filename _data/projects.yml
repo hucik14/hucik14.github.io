@@ -22,10 +22,14 @@
   citation: "Husty, M. (2023), Multiple Solutions of Direct Kinematics of 3-RPR Parallel Manipulators."
   doi: "https://doi.org/10.1007/978-3-031-45705-0_58"
 
+
+
 - title: "Even shakier 3-RPR"
   gif: "g3rpr.gif"  # place the gif in assets/gifs/
   description: >
-    This 3-RPR structure's flexibility is limited by self-collisions, 
+    The flexibility of this 3-RPR was "enhanced" by replacing rigid bodies (base and coupler) 
+    by assembling them using bars in the mechanism's co-linear configuration.
+    The moveability is limited by self-collisions, 
     so in reality it would be even higher portion of infinitesimal motion.
     It was proposed by Georg Nawratil from TU Wien, Austria.
   links:
@@ -34,6 +38,8 @@
       url: "https://www.geometrie.tuwien.ac.at/nawratil/"
   citation: "Nawratil, G. (2025), A global approach for the redefinition of higher-order flexibility and rigidity."
   doi: "https://doi.org/10.1016/j.mechmachtheory.2024.105853"
+
+
 
 - title: "Möbius linkage (9R with 1 DoF)"
   gif: "r9.gif"
