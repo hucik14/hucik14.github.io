@@ -1,7 +1,3 @@
----
-title: Mechanism Prototyping
----
-
 <div class="custom-header">
   <h1>Mechanisms Prototyping Header </h1>
   <p>Welcome to my site with a little presentation of mechanisms prototypes I made.</p>
