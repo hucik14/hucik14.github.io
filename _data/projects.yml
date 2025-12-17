@@ -15,13 +15,14 @@
 #
 # TODO: Bricards, snappings
 #
-- title: "Bennett 4R pick-and-place demo"
+- title: "Bennett mechanism pick-and-place demo"
   gif: "tombennett.gif"  # place the gif in assets/gifs/
   description: >
-    Beautiful pick-and-place manipulator made by Tomas Postula, VSB - Technical 
+    Beautiful pick-and-place spatial 4R manipulator made by Tomas Postula, VSB - Technical 
     University of Ostrava, Czechia. I helped him only a little with very first
-    design draft. After Tomas finished I had to made and assembly one also for myself asap. 
-    Based on experience from public outreach events, <b>kids totally love it</b> ❤️❕
+    design draft. After Tomas finished I had to make and assemble one also for myself asap,
+    it is lovely! ❤️ Based on experience from public outreach 
+    events, kids totally love it❕ 
   links:
     - label: "Video"
       text: "youtube.com/watch?v=T_7lkPjdcCg"
