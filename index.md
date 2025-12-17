@@ -6,11 +6,11 @@ You can also visit my [GitHub](https://github.com/hucik14) · [Google Scholar](h
 
 ---
 
-## Jump to a project
+Jump to a project:
 <p class="toc">
 {% for p in site.data.projects %}
   {% assign pid = p.id | default: p.title | slugify %}
-  <a href="#{{ pid }}">{{ p.title }}</a>{% unless forloop.last %} · {% endunless %}
+  <a href="#{{ pid }}">{{ p.title }}</a>{% unless forloop.last %} | {% endunless %}
 {% endfor %}
 </p>
 
