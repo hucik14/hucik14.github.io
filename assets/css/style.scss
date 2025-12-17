@@ -25,7 +25,13 @@ span.credits { display: none !important; }
   margin: 0 !important;
   min-height: 0 !important;
 }
-
+/* Remove the remaining separator line under the old header */
+#header, #header_wrap, #header nav, #header nav ul {
+  border: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
 
 
 
