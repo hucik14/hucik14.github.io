@@ -6,6 +6,16 @@ You can also visit my [GitHub](https://github.com/hucik14) · [Google Scholar](h
 
 ---
 
+## Jump to a project
+<ul class="toc">
+{% for p in site.data.projects %}
+  {% assign pid = p.id | default: p.title | slugify %}
+  <li><a href="#{{ pid }}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>
+
+---
+
 {% for p in site.data.projects %}
   {% include project.html p=p %}
   {% unless forloop.last %}<hr>{% endunless %}

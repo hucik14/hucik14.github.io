@@ -20,9 +20,8 @@
   description: >
     Beautiful pick-and-place spatial 4R manipulator made by Tomas Postula, VSB - Technical 
     University of Ostrava, Czechia. I helped him only a little with very first
-    design draft. After Tomas finished I had to make and assemble one also for myself asap,
-    it is lovely! ❤️ Based on experience from public outreach 
-    events, kids totally love it❕ 
+    design draft. After Tomas finished I had to make and assemble one also for myself asap. 
+    Based on experience from public outreach events, kids totally love it! ❤️
   links:
     - label: "Video"
       text: "youtube.com/watch?v=T_7lkPjdcCg"
@@ -71,7 +70,7 @@
 - title: "Shaky 3-RPR"
   gif: "m3rpr.gif"
   description: >
-    The structure shall be rigid (imagine pneumatic actuators in the legs 
+    The structure should be rigid (imagine pneumatic actuators in the legs 
     that that keep length in this configuration), however it is shaky 
     (infinitesimally moveable) because the direct kinematics solutions coincide.
     It was proposed by Manfred Husty, University of Innsbruck, Austria.

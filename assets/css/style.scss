@@ -15,8 +15,6 @@
 /* Hide the "Hosted on GitHub Pages — Theme by …" credits line */
 span.credits { display: none !important; }
 
-
-
 /* If a leftover header container still takes space */
 #header, #header_wrap {
   background: transparent !important;
@@ -34,8 +32,9 @@ span.credits { display: none !important; }
 }
 
 
-
-
+/* Anchor link style for projet titles */
+.anchor { font-size: 0.9em; margin-left: 8px; opacity: 0.6; text-decoration: none; }
+.anchor:hover { opacity: 1; }
 
 
 /* Font + base size */
