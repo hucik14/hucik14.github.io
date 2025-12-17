@@ -15,7 +15,7 @@
 #
 # TODO: Bricards, snappings
 #
-- title: "Bennett mechanism pick-and-place demo"
+- title: "Bennett pick-and-place demo"
   gif: "tombennett.gif"  # place the gif in assets/gifs/
   description: >
     Beautiful pick-and-place spatial 4R manipulator made by Tomas Postula, VSB - Technical 

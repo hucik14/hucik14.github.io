@@ -73,3 +73,23 @@ h3 { font-size: 1.0rem; }
   .project { flex-direction: column; }
   .project img { width: 100%; max-width: 520px; }
 }
+
+
+/* Project title with permalink when hovering */
+.project-title {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.permalink {
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 120ms ease-in-out;
+}
+.project:hover .permalink,
+.project:focus-within .permalink {
+  opacity: 0.75;
+}
+.permalink:hover {
+  opacity: 1;
+}
