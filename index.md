@@ -1,5 +1,9 @@
+---
+title: Mechanism Prototyping
+---
+
 <div class="custom-header">
-  <h1>Mechanisms Prototyping</h1>
+  <h1>Mechanisms Prototyping Header </h1>
   <p>Welcome to my site with a little presentation of mechanisms prototypes I made.</p>
   <p class="links">
     <a href="https://github.com/hucik14">GitHub</a> ·
@@ -8,10 +12,6 @@
   </p>
 </div>
 
-
----
-title: Mechanism Prototyping
----
 Welcome to a little presentation of mechanisms prototypes I made. 
 
 
