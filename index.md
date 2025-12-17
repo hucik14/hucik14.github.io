@@ -1,6 +1,6 @@
 ---
-Mechanism Prototyping
 ---
+
 Welcome to a little animated presentation of mechanisms prototypes I made. Feel free to reach out here: [contact form](https://docs.google.com/forms/d/e/1FAIpQLSfuRs3_uNcINh2yRX_F4iCAaxD1PlyUjmmNVjVHe6W_Tt3u5w/viewform?usp=dialog).
 
 Visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://scholar.google.com/citations?user=5sNQdNMAAAAJ) · [Printables](https://www.printables.com/@hucik14_497869) profiles.
