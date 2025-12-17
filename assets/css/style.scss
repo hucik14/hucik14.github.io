@@ -3,14 +3,8 @@
 @import "{{ site.theme }}";
 
 
-/* Hide the "View on GitHub" button */
-a.view {
-    display: none !important;
-}
-/* Optional: if the Fork button appears */
-a.fork {
-    display: none !important;
-}
+/* Midnight: hide the whole "downloads" header area */
+#downloads { display: none !important; }
 
 /* Make the theme single-column and center it */
 // .wrapper {
