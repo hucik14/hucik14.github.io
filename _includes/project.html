@@ -1,0 +1,21 @@
+<div class="project">
+  <img src="{{ include.p.gif | relative_url }}" alt="{{ include.p.alt }}">
+
+  <div class="text">
+    <h3>{{ include.p.title }}</h3>
+    <p>{{ include.p.description }}</p>
+
+    {% if include.p.links %}
+      <p>
+        {% for l in include.p.links %}
+          {{ l.label }}: <a href="{{ l.url }}">{{ l.text }}</a><br>
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    {% if include.p.citation %}
+      <p>{{ include.p.citation }}<br>
+      Paper DOI: <a href="{{ include.p.doi }}">{{ include.p.doi | replace: "https://doi.org/", "" }}</a></p>
+    {% endif %}
+  </div>
+</div>
