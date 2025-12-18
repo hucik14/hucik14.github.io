@@ -7,7 +7,9 @@
     <h3 class="project-title">
       {{ include.p.title }} <a class="permalink" href="#{{ pid }}" aria-label="Permalink to {{ include.p.title }}">🔗</a>
     </h3>
-    <p>{{ include.p.description }}</p>
+    <div class="desc">
+      {{ include.p.description | markdownify }}
+    </div>
 
     {% if include.p.links %}
       <p>

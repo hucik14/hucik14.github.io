@@ -1,6 +1,6 @@
 # - title: "Example"
 #   gif: "example.gif"  # place the gif in assets/gifs/
-#   description: >
+#   description: |
 #     Lorem ipsum text lorem ip sum text.
 #   links:
 #     - label: "Paper"
@@ -15,12 +15,13 @@
 #
 # TODO: Bricards, 6upu, snappings
 #
-- title: "Bennett pick-and-place demo"
+- title: "Pick-and-place 4R demo"
   gif: "tombennett.gif"  # place the gif in assets/gifs/
-  description: >
-    Beautiful pick-and-place spatial 4R manipulator made by Tomas Postula, VSB - Technical 
-    University of Ostrava, Czechia. I helped him only a little with very first
-    design draft. After Tomas finished I had to make and assemble one also for myself asap. 
+  description: |
+    This beautiful manipulation task with Bennett mechanism was made 
+    by Tomas Postula, VSB - Technical University of Ostrava, Czechia. 
+    I helped him only a little with very first design of the linkage. 
+    After Tomas finished I had to make and assemble one also for myself asap. 
     Based on experience from public outreach events, kids totally love it! ❤️
   links:
     - label: "Video"
@@ -30,11 +31,13 @@
 
 - title: "Rational Linkages"
   gif: "rl.gif"  # place the gif in assets/gifs/
-  description: >
-    Although not a single mechanism, I created this interactive toolbox
+  description: |
+    Although not a mechanism, I created this interactive toolbox
     for synthesis and rapid prototyping of rational linkages during
-    my postdoc at the University of Innsbruck, Austria. It is open-source
-    and <a href="https://pypi.org/project/rational-linkages/">available on PyPI</a>.
+    my postdoc at the University of Innsbruck, Austria. It is open-source 
+    ([view code on GitHub](https://github.com/hucik14/rational-linkages)),
+    and you can easily get it via `pip install rational-linkages`,
+    as it is [available on PyPI](https://pypi.org/project/rational-linkages/).
   links:
     - label: "Rational Linkages docs"
       text: "rational-linkages.readthedocs.io"
@@ -49,7 +52,7 @@
 
 - title: "Motorized 6R"
   gif: "r6.gif"  # place the gif in assets/gifs/
-  description: >
+  description: |
     Rational 6R mechanism with 1 DoF, whose coupler motion
     is parameterized by a cubic rational function. 
     Collision-free line model was proposed by Zijia Li from the
@@ -69,7 +72,7 @@
 
 - title: "Shaky 3-RPR"
   gif: "m3rpr.gif"
-  description: >
+  description: |
     The structure should be rigid (imagine pneumatic actuators in the legs 
     that that keep length in this configuration), however it is shaky 
     (infinitesimally moveable) because the direct kinematics solutions coincide.
@@ -81,7 +84,7 @@
 
 - title: "Even shakier 3-RPR"
   gif: "g3rpr.gif"  # place the gif in assets/gifs/
-  description: >
+  description: |
     The flexibility of this 3-RPR was "enhanced" by replacing rigid bodies 
     (base and coupler triangular platforms) and assembling 
     them using bars in the mechanism's co-linear configuration.
@@ -99,7 +102,7 @@
 
 - title: "Möbius linkage"
   gif: "r9.gif"
-  description: >
+  description: |
     This 9R is supposed to have 3 DoFs, but has only 1 as the axes form a discrete Möbius strip.
     It was proposed by Manfred Husty, University of Innsbruck, Austria.
   citation: "Husty, M. (2022), Möbius Linkages."
