@@ -20,10 +20,11 @@
   description: |
     My state-of-the-art design of a Bennett linkage toy,
     used for public outreach events to demonstrate
-    the beauty of spatial mechanisms. 
+    the beauty of spatial mechanisms. Kids do the assembly 
+    and can take their own Bennett mechanism home.
   links:
-    - label: "Model"
-      text: "from printables.com"
+    - label: "STL files"
+      text: "download on printables.com"
       url: "https://www.printables.com/model/495258-bennett-mechanism-with-bearings"
 
 
@@ -47,7 +48,7 @@
   gif: "rl.gif" 
   description: |
     Although not a mechanism but Python package, I created this interactive 
-    toolbox <img src="assets/rl-logo.png" height="12">
+    toolbox <img src="assets/rl-logo.png" style="height:20px;width:auto;vertical-align:-0.15em" alt="RL logo">
     for synthesis and rapid prototyping of rational linkages during
     my postdoc at the University of Innsbruck, Austria. It is open-source 
     ([code on GitHub](https://github.com/hucik14/rational-linkages)),
