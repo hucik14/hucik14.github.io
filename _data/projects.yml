@@ -43,10 +43,7 @@
     - label: "Rational Linkages docs"
       text: "rational-linkages.readthedocs.io"
       url: "https://rational-linkages.readthedocs.io/"
-    - label: "Arxiv preprint"
-      text: "arxiv.org/abs/2403.00558"
-      url: "https://arxiv.org/abs/2403.00558"
-  citation: "Huczala, D. et al. (2023), Rational Linkages: From Poses to 3D-printed Prototypes."
+  citation: "Huczala, D. et al. (2023), Rational Linkages: From Poses to 3D-printed Prototypes, <a href='https://arxiv.org/abs/2403.00558' target='_blank'>arXiv:2403.00558</a>."
   doi: "https://doi.org/10.1007/978-3-031-64057-5_27"
 
 

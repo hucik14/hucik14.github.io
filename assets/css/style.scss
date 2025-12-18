@@ -38,6 +38,7 @@ span.credits { display: none !important; }
 .toc a { white-space: nowrap; }
 .toc { line-height: 1.8; }
 
+
 /* Font + base size */
 body {
   font-family: system-ui, -apple-system, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif;
@@ -48,6 +49,20 @@ body {
 h1 { font-size: 1.5rem; }
 h2 { font-size: 1.0rem; }
 h3 { font-size: 1.0rem; }
+/* Markdown `code` font sizes */
+code {
+  font-size: 11px;
+}
+/* Code blocks */
+pre,
+pre code,
+.highlight pre,
+.highlight code,
+.highlighter-rouge pre,
+.highlighter-rouge code {
+  font-size: 11px;
+  line-height: 1.4;
+}
 
 /* Project row: GIF left, text right */
 .project {
@@ -67,7 +82,6 @@ h3 { font-size: 1.0rem; }
   min-width: 260px;
   text-align: justify;
 }
-
 /* Mobile: stack */
 @media (max-width: 820px) {
   .project { flex-direction: column; }
@@ -92,20 +106,4 @@ h3 { font-size: 1.0rem; }
 }
 .permalink:hover {
   opacity: 1;
-}
-
-
-/* markdown `code` font sizes */
-code {
-  font-size: 1.0rem;      /* relative to surrounding text */
-}
-/* Code blocks */
-pre,
-pre code,
-.highlight pre,
-.highlight code,
-.highlighter-rouge pre,
-.highlighter-rouge code {
-  font-size: 12px;       /* or use 0.85rem */
-  line-height: 1.4;
 }
