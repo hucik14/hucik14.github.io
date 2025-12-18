@@ -18,7 +18,7 @@
 - title: "Bennett toy"
   gif: "bennetttoy.gif"  # place the gif in assets/gifs/
   description: |
-    My state-of-the-art design of a Bennett linkage toy,
+    My state-of-the-art design of the Bennett linkage fidget-like toy,
     used for public outreach events to demonstrate
     the beauty of spatial mechanisms. Kids do the assembly 
     and can take their own Bennett mechanism home, 
@@ -49,7 +49,7 @@
 - title: "Rational Linkages"
   gif: "rl.gif" 
   description: |
-    <img src="assets/rl-logo.png" style="height:24px;width:auto;vertical-align:-0.15em" alt="RL logo">
+    <img src="assets/rl-logo.png" style="height:30px;width:auto;vertical-align:-0.15em" alt="RL logo">
     Although not a mechanism but Python package, I created this interactive 
     toolbox for synthesis and rapid prototyping of rational linkages
     during my postdoc at the University of Innsbruck, Austria. It is open-source 
