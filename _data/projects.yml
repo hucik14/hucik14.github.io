@@ -46,12 +46,12 @@
 
 
 
-- title: '<img src="assets/rl-logo.png" style="height:16px;width:auto;vertical-align:-0.15em" alt="RL logo"> Rational Linkages'
+- title: "Rational Linkages"
   gif: "rl.gif" 
   description: |
+    <img src="assets/rl-logo.png" style="height:24px;width:auto;vertical-align:-0.15em" alt="RL logo">
     Although not a mechanism but Python package, I created this interactive 
-    toolbox for synthesis and rapid prototyping of rational linkages 
-    <img src="assets/rl-logo.png" style="height:16px;width:auto;vertical-align:-0.15em" alt="RL logo">
+    toolbox for synthesis and rapid prototyping of rational linkages
     during my postdoc at the University of Innsbruck, Austria. It is open-source 
     ([code on GitHub](https://github.com/hucik14/rational-linkages)),
     and you can easily get it via «`pip install rational-linkages`»
