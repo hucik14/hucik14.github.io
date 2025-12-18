@@ -33,11 +33,11 @@
 - title: "Rational Linkages"
   gif: "rl.gif" 
   description: |
-    Although not a mechanism, I created this interactive toolbox
+    Although not a mechanism, I created this interactive toolbox <img src="assets/rl-logo.png" width="3%">
     for synthesis and rapid prototyping of rational linkages during
     my postdoc at the University of Innsbruck, Austria. It is open-source 
     ([code on GitHub](https://github.com/hucik14/rational-linkages)),
-    and you can easily get it via `pip install rational-linkages`,
+    and you can easily get it via «`pip install rational-linkages`»
     as it is [available on PyPI](https://pypi.org/project/rational-linkages/).
   links:
     - label: "Rational Linkages docs"
