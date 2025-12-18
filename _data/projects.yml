@@ -22,7 +22,7 @@
     used for public outreach events to demonstrate
     the beauty of spatial mechanisms. Kids do the assembly 
     and can take their own Bennett mechanism home, 
-    they totally love it! And many fathers seem very jealous... 😄
+    they totally love it! And many fathers seem jealous... 😄
   links:
     - label: "STL files"
       text: "find on printables.com"
@@ -46,7 +46,7 @@
 
 
 
-- title: "Rational Linkages"
+- title: '<img src="assets/rl-logo.png" style="height:16px;width:auto;vertical-align:-0.15em" alt="RL logo"> Rational Linkages'
   gif: "rl.gif" 
   description: |
     Although not a mechanism but Python package, I created this interactive 
