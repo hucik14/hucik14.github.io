@@ -93,3 +93,19 @@ h3 { font-size: 1.0rem; }
 .permalink:hover {
   opacity: 1;
 }
+
+
+/* markdown `code` font sizes */
+code {
+  font-size: 1.0rem;      /* relative to surrounding text */
+}
+/* Code blocks */
+pre,
+pre code,
+.highlight pre,
+.highlight code,
+.highlighter-rouge pre,
+.highlighter-rouge code {
+  font-size: 12px;       /* or use 0.85rem */
+  line-height: 1.4;
+}

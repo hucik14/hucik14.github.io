@@ -16,7 +16,7 @@
 # TODO: Bricards, 6upu, snappings
 #
 - title: "Pick-and-place 4R demo"
-  gif: "tombennett.gif"  # place the gif in assets/gifs/
+  gif: "tombennett.gif" 
   description: |
     This beautiful manipulation task with Bennett mechanism was made 
     by Tomas Postula, VSB - Technical University of Ostrava, Czechia. 
@@ -29,13 +29,14 @@
       url: "https://www.youtube.com/watch?v=T_7lkPjdcCg"
 
 
+
 - title: "Rational Linkages"
-  gif: "rl.gif"  # place the gif in assets/gifs/
+  gif: "rl.gif" 
   description: |
     Although not a mechanism, I created this interactive toolbox
     for synthesis and rapid prototyping of rational linkages during
     my postdoc at the University of Innsbruck, Austria. It is open-source 
-    ([view code on GitHub](https://github.com/hucik14/rational-linkages)),
+    ([code on GitHub](https://github.com/hucik14/rational-linkages)),
     and you can easily get it via `pip install rational-linkages`,
     as it is [available on PyPI](https://pypi.org/project/rational-linkages/).
   links:
@@ -51,7 +52,7 @@
 
 
 - title: "Motorized 6R"
-  gif: "r6.gif"  # place the gif in assets/gifs/
+  gif: "r6.gif" 
   description: |
     Rational 6R mechanism with 1 DoF, whose coupler motion
     is parameterized by a cubic rational function. 
@@ -59,12 +60,12 @@
     Chinese Academy of Sciences, China. Solid curved-link model 
     was made using Rational Linkages. 
   links:
-    - label: "Rational Linkages docs"
-      text: "rational-linkages.readthedocs.io"
-      url: "https://rational-linkages.readthedocs.io/"
     - label: "Video"
       text: "https://youtu.be/SC_mPBAiBr0"
       url: "youtu.be/SC_mPBAiBr0"
+    - label: "Rational Linkages docs"
+      text: "rational-linkages.readthedocs.io"
+      url: "https://rational-linkages.readthedocs.io/"
   citation: "Li, Z., Nawratil, G. et al. (2020), Invertible Paradoxic Loop Structures for Transformable Design."
   doi: "https://doi.org/10.1111/cgf.13928"
 
@@ -83,7 +84,7 @@
 
 
 - title: "Even shakier 3-RPR"
-  gif: "g3rpr.gif"  # place the gif in assets/gifs/
+  gif: "g3rpr.gif"
   description: |
     The flexibility of this 3-RPR was "enhanced" by replacing rigid bodies 
     (base and coupler triangular platforms) and assembling 
