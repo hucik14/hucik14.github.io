@@ -13,7 +13,7 @@
 #   doi: "https://doi.org/10.1007/978-3-031-45705-0_58"
 #
 #
-# TODO: Bricards, 6upu, snappings
+# TODO: Bricards, 6upu, Stachel series,
 #
 - title: "Bennett toy"
   gif: "bennetttoy.gif"  # place the gif in assets/gifs/
@@ -27,6 +27,22 @@
     - label: "STL files"
       text: "find on printables.com"
       url: "https://www.printables.com/model/495258-bennett-mechanism-with-bearings"
+
+
+
+- title: "Snapping 4R"
+  gif: "snap.gif"  
+  description: |
+    A snapping (bi-stable) four-bar has two rigid configurations. 
+    The beutiful geometrical construction that relates to the two
+    limit poses of Henrici's flexible hyperboloid was done by 
+    Hellmuth Stachel, TU Wien, Austria, in our joint work.
+  links:
+    - label: "Video"
+      text: "zenodo.org/records/14206067"
+      url: "https://zenodo.org/records/14206067"
+  citation: "Stachel, H. and Huczala, D. (2025), From Henrici’s flexible hyperboloid to snapping spatial four-bars."
+  doi: "https://doi.org/10.1016/j.mechmachtheory.2025.106057"
 
 
 
