@@ -21,8 +21,8 @@
     My state-of-the-art design of the Bennett linkage fidget-like toy,
     used for public outreach events to demonstrate
     the beauty of spatial mechanisms. Kids do the assembly 
-    and can take their own Bennett mechanism home, 
-    they totally love it! And many fathers seem jealous... 😄
+    and can take their own Bennett mechanism home. 
+    They totally love it and many fathers seem jealous 😄
   links:
     - label: "STL files"
       text: "find on printables.com"
@@ -41,7 +41,7 @@
     - label: "Video"
       text: "zenodo.org/records/14206067"
       url: "https://zenodo.org/records/14206067"
-  citation: "Stachel, H. and Huczala, D. (2025), From Henrici’s flexible hyperboloid to snapping spatial four-bars."
+  citation: "Stachel, H. and Huczala, D. (2025), From Henrici's flexible hyperboloid to snapping spatial four-bars."
   doi: "https://doi.org/10.1016/j.mechmachtheory.2025.106057"
 
 
