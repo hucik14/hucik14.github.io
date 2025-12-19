@@ -145,7 +145,6 @@
 
 
 
-
 - title: "Möbius linkage"
   gif: "r9.gif"
   description: |
@@ -153,3 +152,19 @@
     It was proposed by Manfred Husty, University of Innsbruck, Austria.
   citation: "Husty, M. (2022), Möbius Linkages."
   doi: "https://doi.org/10.1007/978-3-031-08140-8_1"
+
+
+
+- title: "Serial 3R"
+  gif: "serial3r.gif" 
+  description: |
+    This demo was created as part of my PhD,
+    to show the capabilies of the methodology. 
+    The topic was focused on synthesis of serial manipulators
+    in environment with collisions.
+  links:
+    - label: "Video"
+      text: "youtu.be/KPRaVsSBQ40"
+      url: "https://youtu.be/KPRaVsSBQ40"
+  citation: "Huczala, D. (2022), Multirepresentations and Multiconstraints Approach to the Numerical Synthesis of Serial Kinematic Structures of Manipulators."
+  doi: "https://doi.org/10.1109/access.2022.3186098"
