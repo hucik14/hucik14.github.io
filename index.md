@@ -1,6 +1,6 @@
 ---
 ---
-Welcome to a small animated collection of various mechanism I’ve made. I hope you will share the passion for kinematics with me and appreciate the beautiful goemetry behind the presented mechanisms. My name is Daniel, curently a postdoc at Robotics Laboratory, Seoul National University, Korea. If you want to reach out, find my emial on our [lab's website](https://sites.google.com/robotics.snu.ac.kr/fcp/people/researchers).
+Welcome to a small animated collection of various mechanism I’ve made. I hope you will share the passion for kinematics with me and appreciate the beautiful goemetry behind the presented mechanisms. My name is Daniel, curently a postdoc at Robotics Laboratory, Seoul National University, Korea. If you want to reach out, find my emial on our [lab's website](https://sites.google.com/robotics.snu.ac.kr/fcp/people).
 
 You can also visit my [GitHub](https://github.com/hucik14) · [Google Scholar](https://scholar.google.com/citations?user=5sNQdNMAAAAJ) · [Printables](https://www.printables.com/@hucik14_497869) profiles.
 
