@@ -132,11 +132,12 @@
 
 
 
-- title: "Multimode 6R"
+- title: "Multimode 7R with no 7R mode"
   gif: "multimode-xk.gif"
   description: |
-    This multimode 7R is expected to have 1 DoF, but it never reaches 
-    its expected motion mode. Instead, it switches between multiple 
+    This multimode 7R never reaches its expected motion mode
+    with 1 DoF and 7 revolute joints.
+    Instead, it switches between multiple 
     different motion modes with various degrees of freedom.
     It was proposed by Xianwen Kong from Heriot-Watt University, UK.
   citation: "Kong, X. (2024), A Variable-DOF Single-Loop 7R Spatial Mechanism That Has No 1-DOF 7R Motion Mode."
