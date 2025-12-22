@@ -161,7 +161,8 @@
     This demo was created as part of my PhD,
     to show the capabilies of the developed methodology. 
     The topic was focused on synthesis of serial manipulators
-    in a collision environment.
+    in a collision environment. The presented 3R manipulator 
+    can reach 3 prescribed poses while avoiding the obstacles.
   links:
     - label: "Video"
       text: "youtu.be/KPRaVsSBQ40"
