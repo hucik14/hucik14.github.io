@@ -26,6 +26,16 @@ Jump to a project:
 
 ---
 
+## Other projects
+
+- PyRigi
+  - minor contribution in package for the rigidity and flexibility of bar-and-joint frameworks
+  - [github.com/PyRigi](https://github.com/PyRigi/PyRigi)
+
+- DOI to Bibtex Apple Shortcut
+  - fast conversion from Spotlight
+  - [github.com/hucik14/doi2bibtex-mac-shortcuts](https://github.com/hucik14/doi2bibtex-mac-shortcuts)
+
 ## License
 
 Site code: Apache 2.0 (see [LICENCE](https://github.com/hucik14/hucik14.github.io/blob/main/LICENSE))  
