@@ -28,10 +28,9 @@ Jump to a project:
 
 ## Other projects and useful links
 
-PyRigi · [github.com/PyRigi/PyRigi](https://github.com/PyRigi/PyRigi) · Python package for the rigidity and flexibility of bar-and-joint framework; I did a minor contributions ([#124](https://github.com/PyRigi/PyRigi/pull/124), [#156](https://github.com/PyRigi/PyRigi/pull/156)) there for generation of STL models of the framework bars.
+[PyRigi](https://github.com/PyRigi/PyRigi) · Python package for the rigidity and flexibility of bar-and-joint framework; I did a minor contributions ([#124](https://github.com/PyRigi/PyRigi/pull/124), [#156](https://github.com/PyRigi/PyRigi/pull/156)) there for generation of STL models of the framework bars.
 
-- DOI to Bibtex Apple Shortcut · [github.com/hucik14/doi2bibtex-mac-shortcuts](https://github.com/hucik14/doi2bibtex-mac-shortcuts)
-  - Fast bibtex generation.
+[DOI to Bibtex Apple Shortcut](https://github.com/hucik14/doi2bibtex-mac-shortcuts) · Fast bibtex generation.
 
 
 ## License
