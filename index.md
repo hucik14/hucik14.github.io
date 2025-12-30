@@ -26,16 +26,13 @@ Jump to a project:
 
 ---
 
-## Other interests
+## Other projects and useful links
 
-DOI to Bibtex Apple Shortcut  |  [github.com/hucik14/doi2bibtex-mac-shortcuts](https://github.com/hucik14/doi2bibtex-mac-shortcuts)
-
+DOI to Bibtex Apple Shortcut · [github.com/hucik14/doi2bibtex-mac-shortcuts](https://github.com/hucik14/doi2bibtex-mac-shortcuts)
 - fast bibtex generation
 
 
-
-PyRigi  |  [github.com/PyRigi/PyRigi](https://github.com/PyRigi/PyRigi)
-
+PyRigi · [github.com/PyRigi/PyRigi](https://github.com/PyRigi/PyRigi)
 - minor contribution in package for the rigidity and flexibility of bar-and-joint frameworks
 
 
