@@ -36,7 +36,10 @@ span.credits { display: none !important; }
 .anchor { font-size: 0.9em; margin-left: 8px; opacity: 0.6; text-decoration: none; }
 .anchor:hover { opacity: 1; }
 .toc a { white-space: nowrap; }
-.toc { line-height: 1.8; }
+.toc { 
+  line-height: 1.8; 
+  text-align: justify;
+}
 
 
 /* Font + base size */
