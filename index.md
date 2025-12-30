@@ -1,7 +1,7 @@
 ---
 ---
 <div class="justify_align">
-{{ "Welcome to a small animated collection of various mechanism I’ve made. I hope you will share the passion for kinematics with me and appreciate the beautiful goemetry behind the presented mechanisms. My name is Daniel, curently a postdoc at Robotics Laboratory, Seoul National University, Korea. If you want to reach out, find my emial on our [lab's website](https://sites.google.com/robotics.snu.ac.kr/fcp/people)." | markdownify }}
+{{ "Welcome to a small animated collection of various mechanism I’ve made. I hope you will share the passion for kinematics with me and appreciate the beautiful goemetry behind the presented mechanisms. My name is Daniel, curently a postdoc at Robotics Laboratory, Seoul National University, Korea. If you want to reach out, find my email on our [lab's website](https://sites.google.com/robotics.snu.ac.kr/fcp/people)." | markdownify }}
 </div>
 
 <div class="center_align">
@@ -28,11 +28,10 @@ Jump to a project:
 
 ## Other projects and useful links
 
-PyRigi · [github.com/PyRigi/PyRigi](https://github.com/PyRigi/PyRigi)
-- Python package for the rigidity and flexibility of bar-and-joint framework; I did a minor contributions ([#124](https://github.com/PyRigi/PyRigi/pull/124), [#156](https://github.com/PyRigi/PyRigi/pull/156)) there for generation of STL models of the framework bars.
+PyRigi · [github.com/PyRigi/PyRigi](https://github.com/PyRigi/PyRigi) · Python package for the rigidity and flexibility of bar-and-joint framework; I did a minor contributions ([#124](https://github.com/PyRigi/PyRigi/pull/124), [#156](https://github.com/PyRigi/PyRigi/pull/156)) there for generation of STL models of the framework bars.
 
-DOI to Bibtex Apple Shortcut · [github.com/hucik14/doi2bibtex-mac-shortcuts](https://github.com/hucik14/doi2bibtex-mac-shortcuts)
-- Fast bibtex generation.
+- DOI to Bibtex Apple Shortcut · [github.com/hucik14/doi2bibtex-mac-shortcuts](https://github.com/hucik14/doi2bibtex-mac-shortcuts)
+  - Fast bibtex generation.
 
 
 ## License
