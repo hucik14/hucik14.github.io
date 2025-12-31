@@ -31,7 +31,7 @@
 
 
 
-- title: "Snapping 4R"
+- title: "Snapping four-bar"
   gif: "snap.gif"  
   description: |
     A snapping (bi-stable) four-bar has two rigid configurations. 
@@ -47,7 +47,7 @@
 
 
 
-- title: "Pick-and-place 4R demo"
+- title: "Pick-and-place Bennett demo"
   gif: "tombennett.gif" 
   description: |
     This beautiful manipulation demo using the Bennett mechanism was made 
@@ -60,6 +60,26 @@
     - label: "Video"
       text: "youtube.com/watch?v=T_7lkPjdcCg"
       url: "https://www.youtube.com/watch?v=T_7lkPjdcCg"
+
+
+
+- title: "Motorized six-bar"
+  gif: "r6.gif" 
+  description: |
+    Rational 6R mechanism with 1 DoF, whose coupler motion
+    is parameterized by a cubic rational function. 
+    Collision-free line model was proposed by Zijia Li from the
+    Chinese Academy of Sciences, China. Solid curved-link model 
+    was made using Rational Linkages. 
+  links:
+    - label: "Video"
+      text: "https://youtu.be/SC_mPBAiBr0"
+      url: "youtu.be/SC_mPBAiBr0"
+    - label: "Rational Linkages docs"
+      text: "rational-linkages.readthedocs.io"
+      url: "https://rational-linkages.readthedocs.io/"
+  citation: "Li, Z., Nawratil, G. et al. (2020), Invertible Paradoxic Loop Structures for Transformable Design."
+  doi: "https://doi.org/10.1111/cgf.13928"
 
 
 
@@ -79,26 +99,6 @@
       url: "https://rational-linkages.readthedocs.io/"
   citation: "Huczala, D. et al. (2023), Rational Linkages: From Poses to 3D-printed Prototypes, <a href='https://arxiv.org/abs/2403.00558' target='_blank'>arXiv:2403.00558</a>."
   doi: "https://doi.org/10.1007/978-3-031-64057-5_27"
-
-
-
-- title: "Motorized 6R"
-  gif: "r6.gif" 
-  description: |
-    Rational 6R mechanism with 1 DoF, whose coupler motion
-    is parameterized by a cubic rational function. 
-    Collision-free line model was proposed by Zijia Li from the
-    Chinese Academy of Sciences, China. Solid curved-link model 
-    was made using Rational Linkages. 
-  links:
-    - label: "Video"
-      text: "https://youtu.be/SC_mPBAiBr0"
-      url: "youtu.be/SC_mPBAiBr0"
-    - label: "Rational Linkages docs"
-      text: "rational-linkages.readthedocs.io"
-      url: "https://rational-linkages.readthedocs.io/"
-  citation: "Li, Z., Nawratil, G. et al. (2020), Invertible Paradoxic Loop Structures for Transformable Design."
-  doi: "https://doi.org/10.1111/cgf.13928"
 
 
 
