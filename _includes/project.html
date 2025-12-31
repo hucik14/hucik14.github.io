@@ -6,8 +6,7 @@
   <div class="text">
     <h3 class="project-title">
       {{ include.p.title }}
-      <a class="permalink" href="#{{ pid }}" aria-label="Link to {{ include.p.title }}" title="Copy link to clipboard with right-click">🔗</a>
-      <span class="hash">#{{ pid }}</span>
+      <a class="permalink" href="#{{ pid }}" aria-label="Link to {{ include.p.title }}" title="Right-click and 'copy link' to this project">🔗</a>
     </h3>
     <div class="desc">
       {{ include.p.description | markdownify }}
