@@ -1,7 +1,7 @@
 ---
 ---
 <div class="justify_align">
-{{ "Welcome to a small collection of various mechanisms I’ve made. I hope you will share the passion for kinematics with me and appreciate the beautiful goemetry behind the presented mechanisms. My name is Daniel, curently a postdoc at Robotics Laboratory, Seoul National University, Korea. If you want to reach out, find my email on our [lab's website](https://sites.google.com/robotics.snu.ac.kr/fcp/people/researchers)." | markdownify }}
+{{ "Welcome to a small collection of various mechanisms I’ve made. I hope you will share the passion for kinematics with me and appreciate the beautiful geometry behind the presented mechanisms. My name is Daniel, currently a postdoc at Robotics Laboratory, Seoul National University, Korea. If you want to reach out, find my email on our [lab's website](https://sites.google.com/robotics.snu.ac.kr/fcp/people/researchers)." | markdownify }}
 </div>
 
 <div class="center_align">
