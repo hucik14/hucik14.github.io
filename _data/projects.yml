@@ -13,7 +13,7 @@
 #   doi: "https://doi.org/10.1007/978-3-031-45705-0_58"
 #
 #
-# TODO: Bricards, 6upu, Stachel series, bi-bennett
+# TODO: Bricards, 6upu, Stachel series
 # Update: multimode 6R
 #
 - title: "Fidget Bennett"
@@ -101,6 +101,23 @@
   citation: "Huczala, D. et al. (2023), Rational Linkages: From Poses to 3D-printed Prototypes, <a href='https://arxiv.org/abs/2403.00558' target='_blank'>arXiv:2403.00558</a>."
   doi: "https://doi.org/10.1007/978-3-031-64057-5_27"
 
+
+- title: "Bi-Bennett"
+  gif: "bibennett.gif"
+  description: |
+    The two Bennett linkages are coupled with spherical joints
+    to form a flexible bipyramid with 1 DoF. It is similar 
+    to the Bricard's flexible octahedron. 
+    It was proposed by Georg Nawratil from TU Wien, Austria.
+  links:
+    - label: "Georg's website"
+      text: "geometrie.tuwien.ac.at/nawratil"
+      url: "https://www.geometrie.tuwien.ac.at/nawratil/"
+    - label: "Video"
+      text: "zenodo.org/records/18299299"
+      url: "https://zenodo.org/records/18299299"
+  citation: "Nawratil, G. (2025), Flexible arrangement of two Bennett tubes."
+  doi: "https://doi.org/10.48550/arXiv.2507.08356"
 
 
 - title: "Shaky 3-RPR"
