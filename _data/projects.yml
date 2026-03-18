@@ -108,7 +108,7 @@
     The two Bennett linkages are coupled with spherical joints
     to form a flexible bipyramid with 1 DoF. It is similar 
     to the Bricard's flexible octahedron. 
-    It was proposed by Georg Nawratil from TU Wien, Austria.
+    The design was proposed by Georg Nawratil from TU Wien, Austria.
   links:
     - label: "Georg's website"
       text: "geometrie.tuwien.ac.at/nawratil"
@@ -117,7 +117,7 @@
       text: "zenodo.org/records/18299299"
       url: "https://zenodo.org/records/18299299"
   citation: "Nawratil, G. (2025), Flexible arrangement of two Bennett tubes."
-  doi: "https://doi.org/10.48550/arXiv.2507.08356"
+  doi: "https://doi.org/10.1016/j.cagd.2026.102535"
 
 
 - title: "Shaky 3-RPR"
