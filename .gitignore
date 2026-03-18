@@ -8,6 +8,7 @@ vendor/
 
 # Ignore system files
 .DS_Store
+**/.DS_Store
 
 # Secrets 
 .env
