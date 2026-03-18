@@ -8,3 +8,8 @@ vendor/
 
 # Ignore system files
 .DS_Store
+
+# Secrets 
+.env
+*.pem
+*.key
