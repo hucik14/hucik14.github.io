@@ -47,19 +47,19 @@
 
 
 
-- title: "Pick-and-place Bennett demo"
-  gif: "tombennett.gif" 
+- title: "Flapping Wing"
+  gif: "flap_wing.gif"
   description: |
-    This beautiful manipulation demo using the Bennett mechanism was made 
-    by Tomáš Poštulka, VSB - Technical University of Ostrava, Czechia. 
-    I helped him only a little with very first design of the linkage. 
-    After Tomáš finished I had to make and assemble one also for myself asap. 
-    Based on experience from public outreach events, some people come repeatedly
-    and stare at it amazed.
+    Two Bennett linkages are serially coupled to form 
+    a flapping wing mechanism. Only one mechanism is actuated,
+    the second has embodied passive folding based on 
+    the dynamics of the motion. 
   links:
     - label: "Video"
-      text: "youtube.com/watch?v=T_7lkPjdcCg"
-      url: "https://www.youtube.com/watch?v=T_7lkPjdcCg"
+      text: "zenodo.org/records/18765525"
+      url: "https://zenodo.org/records/18765525"
+  citation: "Huczala, D., et al. (2026), Bi-Bennetts - Flexible arrangement of two Bennett tubes."
+  doi: "https://doi.org/10.48550/arXiv.2604.07677"
 
 
 
@@ -100,6 +100,24 @@
       url: "https://rational-linkages.readthedocs.io/"
   citation: "Huczala, D. et al. (2023), Rational Linkages: From Poses to 3D-printed Prototypes, <a href='https://arxiv.org/abs/2403.00558' target='_blank'>arXiv:2403.00558</a>."
   doi: "https://doi.org/10.1007/978-3-031-64057-5_27"
+
+
+
+- title: "Pick-and-place Bennett demo"
+  gif: "tombennett.gif" 
+  description: |
+    This beautiful manipulation demo using the Bennett mechanism was made 
+    by Tomáš Poštulka, VSB - Technical University of Ostrava, Czechia. 
+    I helped him only a little with very first design of the linkage. 
+    After Tomáš finished I had to make and assemble one also for myself asap. 
+    Based on experience from public outreach events, some people come repeatedly
+    and stare at it amazed.
+  links:
+    - label: "Video"
+      text: "youtube.com/watch?v=T_7lkPjdcCg"
+      url: "https://www.youtube.com/watch?v=T_7lkPjdcCg"
+
+
 
 
 - title: "Bi-Bennett"
