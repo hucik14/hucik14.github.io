@@ -43,6 +43,8 @@ span.credits { display: none !important; }
 
 /* Font + base size */
 body {
+  background: linear-gradient(#2a2a29, #1c1c1c);
+  background-attachment: fixed !important;
   font-family: system-ui, -apple-system, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 12px;
   line-height: 1.4;

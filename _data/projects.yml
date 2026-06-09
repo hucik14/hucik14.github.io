@@ -13,8 +13,7 @@
 #   doi: "https://doi.org/10.1007/978-3-031-45705-0_58"
 #
 #
-# TODO: Bricards, 6upu, Stachel series
-# Update: multimode 6R
+# TODO: Stachel series; update multimode 6R
 #
 - title: "Fidget Bennett"
   gif: "bennetttoy.gif"  # place the gif in assets/gifs/
@@ -80,6 +79,21 @@
       url: "https://rational-linkages.readthedocs.io/"
   citation: "Li, Z., Nawratil, G. et al. (2020), Invertible Paradoxic Loop Structures for Transformable Design."
   doi: "https://doi.org/10.1111/cgf.13928"
+
+
+
+- title: "Snapping surface"
+  gif: "snapping_surface.gif"  
+  description: |
+    A snapping surface composed of snapping four-bars. 
+    The construction is done from classes of quad nets on Study quadric via applying Whiteley's de-averaging, 
+    and it relates to differential geometry and discrete minimal surfaces. 
+  links:
+    - label: "Video"
+      text: "zenodo.org/records/19216474"
+      url: "https://zenodo.org/records/19216474"
+  citation: "G. Szewieczek, D. Huczala, M. Pfurner, H.-P. Schröcker. (2026), Bistable Quad-Nets Composed of Four-Bar Linkages."
+  doi: "https://doi.org/10.48550/arXiv.2604.00527"
 
 
 
@@ -190,6 +204,7 @@
 
 
 
+
 - title: "Custom serial 3R"
   gif: "serial3r.gif" 
   description: |
@@ -202,5 +217,5 @@
     - label: "Video"
       text: "youtu.be/KPRaVsSBQ40"
       url: "https://youtu.be/KPRaVsSBQ40"
-  citation: "Huczala, D. (2022), Multirepresentations and Multiconstraints Approach to the Numerical Synthesis of Serial Kinematic Structures of Manipulators."
+  citation: "Huczala, D. et al. (2022), Multirepresentations and Multiconstraints Approach to the Numerical Synthesis of Serial Kinematic Structures of Manipulators."
   doi: "https://doi.org/10.1109/access.2022.3186098"
