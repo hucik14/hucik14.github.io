@@ -217,7 +217,7 @@
 
 
 - title: "Bricard's orthogonal 6R"
-  gif: "bricard-ortho.gif"
+  gif: "bricard-orthogo.gif"
   description: |
     Bricard's orthogonal linkage has consecutive joint axes perpendicular 
     to each other. The perpendicularity is the key for mobility of that
