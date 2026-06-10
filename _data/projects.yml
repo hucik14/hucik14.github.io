@@ -85,14 +85,14 @@
 - title: "Snapping surface"
   gif: "snapping_surface.gif"  
   description: |
-    A snapping surface composed of snapping four-bars. 
-    The construction is done from classes of quad nets on Study quadric via applying Whiteley's de-averaging, 
+    A surface composed of snapping four-bars. 
+    The construction is done from quad nets on Study quadric via Whiteley's de-averaging, 
     and it relates to differential geometry and discrete minimal surfaces. 
   links:
     - label: "Video"
       text: "zenodo.org/records/19216474"
       url: "https://zenodo.org/records/19216474"
-  citation: "G. Szewieczek, D. Huczala, M. Pfurner, H.-P. Schröcker. (2026), Bistable Quad-Nets Composed of Four-Bar Linkages."
+  citation: "Szewieczek, G., Huczala, D., Pfurner, M., and Schröcker, H.-P. (2026), Bistable Quad-Nets Composed of Four-Bar Linkages."
   doi: "https://doi.org/10.48550/arXiv.2604.00527"
 
 
@@ -194,6 +194,18 @@
 
 
 
+- title: "Multi-Bennett 8R mechanism"
+  gif: "r8.gif"
+  description: |
+    Every second joint of this mechanism is part of a Bennett mechanism.
+    It has two degrees of freedom, and when holding one joint still, every second
+    one gets blocked. The motion is a rational surface, obtained by factorization
+    of bivariate motion polynomials.
+  citation: "Frischauf, J., et al. (2023), A multi-Bennett 8R mechanism obtained from factorization of bivariate motion polynomials."
+  doi: "https://doi.org/10.1016/j.mechmachtheory.2022.105143"
+
+
+
 - title: "Möbius linkage"
   gif: "r9.gif"
   description: |
@@ -202,6 +214,40 @@
   citation: "Husty, M. (2022), Möbius Linkages."
   doi: "https://doi.org/10.1007/978-3-031-08140-8_1"
 
+
+
+- title: "Bricard's orthogonal 6R"
+  gif: "bricard-ortho.gif"
+  description: |
+    Bricard's orthogonal linkage has consecutive joint axes perpendicular 
+    to each other. The perpendicularity is the key for mobility of that
+    mechanism.
+
+
+
+- title: "Bricard's line-symmetric 6R"
+  gif: "bricard-line.gif"
+  description: |
+    In this Bricard's line-symmetric linkage you can find an axis of symmetry,
+    the configuration on one side of the line mirrors the other under a 180° rotation, 
+    enabling continuous mobility through this constraint.
+
+
+
+- title: "Bricard's plane-symmetric 6R"
+  gif: "bricard-plane.gif"
+  description: |
+    Similarly, this plane-symmetric Bricard's linkage has a symetrical plane
+    that joint axes from one side to the other. 
+
+
+
+- title: "6-UPU platform"
+  gif: "upu6.gif"
+  description: |
+    There is nothing special about this classic 6-UPU platform, 
+    just that the self-made U-joints move very smoothly and are easy 
+    to assemble, so it can serve for some inspiration.
 
 
 
