@@ -36,7 +36,7 @@
     A snapping (bi-stable) four-bar has two rigid configurations. 
     The beautiful geometrical construction that relates to the two
     limit poses of Henrici's flexible hyperboloid was done by 
-    Hellmuth Stachel, TU Wien, Austria, in our joint work.
+    Hellmuth Stachel, TU Wien, Austria, as part of our joint work.
   links:
     - label: "Video"
       text: "zenodo.org/records/14206067"
@@ -86,7 +86,7 @@
   gif: "snapping_surface.gif"  
   description: |
     A surface composed of snapping four-bars. 
-    The construction is done from quad nets on Study quadric via Whiteley's de-averaging, 
+    The construction is derived from quad nets on Study quadric via Whiteley's de-averaging, 
     and it relates to differential geometry and discrete minimal surfaces. It was a group
     effort at my former Unit at the University of Innsbruck, but I must especially mention 
     Gudrun for her contribution in the construction methodology.
@@ -125,9 +125,9 @@
     This beautiful manipulation demo using the Bennett mechanism was made 
     by Tomáš Poštulka, VSB - Technical University of Ostrava, Czechia. 
     I helped him only a little with the very first design of the linkage. 
-    After Tomáš finished, I assembled one also for myself asap. 
+    After Tomáš finished, I had to make and assemble one also for myself asap. 
     Based on experience from public outreach events, some people come repeatedly
-    and stare at it amazed.
+    and stare at it in amazement.
   links:
     - label: "Video"
       text: "youtube.com/watch?v=T_7lkPjdcCg"
@@ -157,7 +157,7 @@
   gif: "m3rpr.gif"
   description: |
     The structure should be rigid (imagine pneumatic actuators in the legs 
-    that that keep length in this configuration), however it is shaky 
+    that maintain length in this configuration), however it is shaky 
     (infinitesimally moveable) because the direct kinematics solutions coincide.
     It was proposed by Manfred Husty, University of Innsbruck, Austria.
   citation: "Husty, M. (2023), Multiple Solutions of Direct Kinematics of 3-RPR Parallel Manipulators."
